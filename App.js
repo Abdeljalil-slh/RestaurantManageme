@@ -7,6 +7,7 @@ export default function App() {
       <Text>OHello world!</Text>
       <Text>Bonjour le jour!</Text>
       <Text>Bonjour la nuit!</Text>
+      <Text>Bonjour la nuit2!</Text>
       <StatusBar style="auto" />
     </View>
   );
